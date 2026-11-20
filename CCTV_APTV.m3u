@@ -83,8 +83,26 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="卫视4K",东方卫视4K
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="CCTV 风云足球",CCTV-风云足球
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-第一剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-怀旧剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-风云剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-风云音乐
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-世界地理
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-兵器科技
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-女性时尚
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-风云足球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-央视台球
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 group-title="CCTV 风云/付费",CCTV-央视文化精品
+http://107.150.60.122/live/ysjp.m3u8
 #EXTINF:-1 group-title="CGTN / CCTV+",CGTN 英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="CGTN / CCTV+",CGTN 纪录
@@ -95,3 +113,19 @@ http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="CGTN / CCTV+",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="大陆线路（补齐）",北京卫视4K（大陆）
+http://8.138.7.223/tv/btime.php?id=bjws4k
+#EXTINF:-1 group-title="大陆线路（补齐）",北京卫视4K（大陆移动）
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大陆线路（补齐）",广东卫视4K（大陆移动）
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236661/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="大陆线路（补齐）",CCTV-4K 真4K（大陆）
+https://liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="大陆线路（补齐）",CGTN 法语（大陆）
+https://migu.yang-1989.xyz/ysp/cgtnf.m3u8
+#EXTINF:-1 group-title="大陆线路（补齐）",CGTN 俄语（大陆）
+https://migu.yang-1989.xyz/ysp/cgtne.m3u8
+#EXTINF:-1 group-title="大陆线路（补齐）",CGTN 阿拉伯语（大陆）
+https://migu.yang-1989.xyz/ysp/cgtna.m3u8
+#EXTINF:-1 group-title="大陆线路（补齐）",CCTV-卫生健康（大陆）
+http://nas.hssvm.com:8888/udp/225.1.1.210:5002
